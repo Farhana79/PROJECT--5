@@ -1,3 +1,10 @@
+
+
+// Farhana Sultana 
+// farhana.sultana79@myhunter.cuny.edu
+// Csci 235
+// project 5
+
 #ifndef CARD_SHOP_HPP_
 #define CARD_SHOP_HPP_
 
