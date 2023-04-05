@@ -1,3 +1,8 @@
+// Farhana Sultana 
+// farhana.sultana79@myhunter.cuny.edu
+// Csci 235
+// project 5
+
 #ifndef LIST_H_
 #define LIST_H_
 
