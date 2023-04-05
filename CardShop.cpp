@@ -1,3 +1,10 @@
+
+
+// Farhana Sultana 
+// farhana.sultana79@myhunter.cuny.edu
+// Csci 235
+// project 5
+
 #include "CardShop.hpp"
 #include "Node.hpp"
 #include <iostream>
